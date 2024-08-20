@@ -5,3 +5,9 @@ dependencies:
   - python=3.10
   - jupyter
   - pooch
+  - intake
+  - intake-xarray
+  - scikit-image
+  - xmltodict
+  - opencv
+  - matplotlib 

@@ -1,0 +1,8 @@
+
+sources:
+  NEONTREE_rgb:
+    driver: xarray_image
+    description: 'NeonTreeEvaluation RGB images (collection)'
+    args:
+      urlpath: "{{ CATALOG_DIR }}/2018_SJER_3_258000_4106000_image.tif"
+      
