@@ -1,8 +1,0 @@
-
-sources:
-  NEONTREE_rgb:
-    driver: xarray_image
-    description: 'NeonTreeEvaluation RGB images (collection)'
-    args:
-      urlpath: "{{ CATALOG_DIR }}/2018_NIWO_2_450000_4426000_image_crop.tif"
-      
