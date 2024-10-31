@@ -14,7 +14,7 @@
     <a href="https://github.com/eds-book-gallery/[repository name]/blob/main/LICENSE">
         <img alt="License" src="https://img.shields.io/badge/License-MIT-yellow.svg">
     </a>
-    <a href="http://mybinder.org/v2/gh/eds-book-gallery/95199651-9e81-4cae-a3a7-66398a9a5f62/main?labpath=notebook.ipynb">
+    <a href="http://mybinder.org/v2/gh/eds-book-gallery/95199651-9e81-4cae-a3a7-66398a9a5f62/review?labpath=notebook.ipynb">
         <img alt="Binder" src="https://mybinder.org/badge_logo.svg">
     </a>
     <a href="https://github.com/eds-book-gallery/95199651-9e81-4cae-a3a7-66398a9a5f62/actions/workflows/render.yaml/badge.svg">
