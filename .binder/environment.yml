@@ -16,3 +16,6 @@ dependencies:
   - torchvision
   - huggingface_hub
   - geopandas
+  - pip
+  - pip:
+      - deepforest==1.4.0
