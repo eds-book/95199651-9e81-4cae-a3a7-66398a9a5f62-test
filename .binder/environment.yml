@@ -6,8 +6,6 @@ dependencies:
   - jupyter
   - pooch
   - py7zr
-  - intake
-  - intake-xarray
   - scikit-image
   - xmltodict
   - opencv
