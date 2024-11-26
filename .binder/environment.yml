@@ -7,9 +7,4 @@ dependencies:
   - intake
   - intake-xarray
   - scikit-image
-  - geopandas
-  - xmltodict
   - matplotlib
-  - hvplot
-  - datashader
-  - pooch
