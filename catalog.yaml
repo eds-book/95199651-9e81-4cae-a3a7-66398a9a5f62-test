@@ -1,0 +1,13 @@
+
+sources:
+  IMAGE_20181001_196:
+    driver: xarray_image
+    description: '20181001 (196).JPG'
+    args:
+      urlpath: "./20181001 (196).JPG"
+  IMAGE_20181002_228:
+    driver: xarray_image
+    description: '20181002 (228).JPG'
+    args:
+      urlpath: "./20181002 (228).JPG"
+    
