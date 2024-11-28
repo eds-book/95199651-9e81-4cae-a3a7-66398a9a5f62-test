@@ -54,5 +54,14 @@ You may also download the notebook from GitHub to run it locally:
 
 6. Launch the jupyter interface of your preference, notebook, `jupyter notebook` or lab `jupyter lab`
 
+<div style="background-color: #ffe4b5; padding: 10px; border-left: 5px solid #ffa500;">
+<b>Note:</b> 
+Following the guidelines in <a href="https://deepforest.readthedocs.io/en/v1.4.1/getting_started/install.html#geopandas-errors/">DeepForest documentation</a>, for Mac M1 and M2 users, you may need to install the `geopandas` package via conda after the step 5. You can do this by running the following command:
+
+```bash
+conda install -c conda-forge geopandas
+```
+</div>
+
 # Credits
 The **How to run** section was adapted from the [Project Pythia Cookbook](https://cookbooks.projectpythia.org/) project.
