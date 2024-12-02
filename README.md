@@ -14,7 +14,7 @@
     <a href="https://github.com/eds-book-gallery/[repository name]/blob/main/LICENSE">
         <img alt="License" src="https://img.shields.io/badge/License-MIT-yellow.svg">
     </a>
-    <a href="http://mybinder.org/v2/gh/eds-book-gallery/95199651-9e81-4cae-a3a7-66398a9a5f62/main?labpath=notebook.ipynb">
+    <a href="http://mybinder.org/v2/gh/eds-book-gallery/95199651-9e81-4cae-a3a7-66398a9a5f62/review?labpath=notebook.ipynb">
         <img alt="Binder" src="https://mybinder.org/badge_logo.svg">
     </a>
     <a href="https://github.com/eds-book-gallery/95199651-9e81-4cae-a3a7-66398a9a5f62/actions/workflows/render.yaml/badge.svg">
@@ -53,6 +53,15 @@ You may also download the notebook from GitHub to run it locally:
     ```  
 
 6. Launch the jupyter interface of your preference, notebook, `jupyter notebook` or lab `jupyter lab`
+
+<div style="background-color: #ffe4b5; padding: 10px; border-left: 5px solid #ffa500;">
+<b>Note:</b> 
+Following the guidelines in <a href="https://deepforest.readthedocs.io/en/v1.4.1/getting_started/install.html#geopandas-errors/">DeepForest documentation</a>, for Mac M1 and M2 users, you may need to install the `geopandas` package via conda after the step 5. You can do this by running the following command:
+
+```bash
+conda install -c conda-forge geopandas
+```
+</div>
 
 # Credits
 The **How to run** section was adapted from the [Project Pythia Cookbook](https://cookbooks.projectpythia.org/) project.
