@@ -11,7 +11,7 @@
 </div>
 
 <p align="center">
-    <a href="https://github.com/eds-book-gallery/[repository name]/blob/main/LICENSE">
+    <a href="https://github.com/eds-book-gallery/95199651-9e81-4cae-a3a7-66398a9a5f62/blob/main/LICENSE">
         <img alt="License" src="https://img.shields.io/badge/License-MIT-yellow.svg">
     </a>
     <a href="http://mybinder.org/v2/gh/eds-book-gallery/95199651-9e81-4cae-a3a7-66398a9a5f62/review?labpath=notebook.ipynb">
