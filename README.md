@@ -20,6 +20,9 @@
     <a href="https://github.com/eds-book-gallery/95199651-9e81-4cae-a3a7-66398a9a5f62/actions/workflows/render.yaml/badge.svg">
         <img alt="Continuous integration badge" src="https://github.com/eds-book-gallery/95199651-9e81-4cae-a3a7-66398a9a5f62/actions/workflows/render.yaml/badge.svg">
     </a>
+    <a href="https://github.com/alan-turing-institute/environmental-ds-book/issues/260">
+        <img alt="review" src="https://img.shields.io/badge/view-review-purple">
+    </a>
     <br/>
 </p>
 
