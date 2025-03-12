@@ -1,21 +1,27 @@
 cff-version: 1.2.0
-title: "Livestock detection using DeepForest (Jupyter Notebook) published in the Environmental Data Science book"
-message: "If you use this software, please cite it as below."
-type: software
+message: Please cite the following works when using this project.
+abstract: >-
+  Notebook developed to demonstrate how to fine-tune a livestock detection model
+  using the DeepForest package.
+title: >-
+  Livestock detection using DeepForest (Jupyter Notebook) published in the
+  Environmental Data Science book
 authors:
-  - given-names: Cameron
-    family-names: Appel
+  - family-names: Appel
+    given-names: Cameron
+    affiliation: Queen Mary University of London
     email: c.appel@qmul.ac.uk
-    affiliation: Queen Mary University London
-  - name: "This EDS book notebook contributors"
-    website: "https://github.com/eds-book-gallery/95199651-9e81-4cae-a3a7-66398a9a5f62/graphs/contributors"
-version: v2.0.0
+    website: https://github.com/camappel
+date-released: '2024-12-05'
+contact:
+  - family-names: Appel
+    given-names: Cameron
+    affiliation: Queen Mary University of London
+    email: c.appel@qmul.ac.uk
+    website: https://github.com/camappel
 identifiers:
   - type: doi
     value: 10.5281/zenodo.14279235
-    description: The concept DOI for the collection containing all versions of the notebook.
-repository-code: >-
-  https://github.com/eds-book-gallery/95199651-9e81-4cae-a3a7-66398a9a5f62
 keywords:
   - livestock
   - detection
@@ -23,3 +29,7 @@ keywords:
   - computer vision
   - deep learning
 license: MIT
+license-url: https://opensource.org/license/MIT
+repository: https://github.com/eds-book/95199651-9e81-4cae-a3a7-66398a9a5f62
+type: software
+version: v2.0.0
