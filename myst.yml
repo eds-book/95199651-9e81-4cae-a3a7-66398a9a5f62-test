@@ -50,11 +50,10 @@ project:
       department: Environment & Sustainability
   subject: Farming
   keywords:
-    - livestock
-    - detection
-    - farming
-    - computer vision
-    - deep learning
+    - Farming
+    - Modelling
+    - Standard
+    - Python
   venue:
     title: Environmental Data Science Book
     short_title: EDS Book

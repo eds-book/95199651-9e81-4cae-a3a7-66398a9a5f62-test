@@ -23,11 +23,10 @@ identifiers:
   - type: doi
     value: 10.5281/zenodo.14279235
 keywords:
-  - livestock
-  - detection
-  - farming
-  - computer vision
-  - deep learning
+  - Farming
+  - Modelling
+  - Standard
+  - Python
 license: MIT
 license-url: https://opensource.org/license/MIT
 repository: https://github.com/eds-book/95199651-9e81-4cae-a3a7-66398a9a5f62
