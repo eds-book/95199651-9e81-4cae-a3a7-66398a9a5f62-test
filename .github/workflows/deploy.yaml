@@ -1,0 +1,11 @@
+name: MyST GitHub Pages Deploy
+
+on:
+  workflow_run:
+    workflows: ["Execute Notebook"]
+    branches: [main]
+    types: [completed]
+
+jobs:
+  deploy:
+    uses: eds-book/notebooks-workflows/.github/workflows/deploy.yaml@main
