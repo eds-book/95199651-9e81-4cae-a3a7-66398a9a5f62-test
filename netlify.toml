@@ -1,5 +1,4 @@
 [build]
-  base = "book"
+  base = "."
   command = "npm install -g mystmd && myst build --html"
-  environment = { PYTHON_VERSION = "3.13" }
-  publish = "_build/html"s
+  publish = "_build/html"
