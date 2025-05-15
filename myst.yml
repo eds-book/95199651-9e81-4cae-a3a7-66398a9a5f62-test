@@ -68,7 +68,6 @@ project:
   jupyter:
     binder:
       repo: eds-book/95199651-9e81-4cae-a3a7-66398a9a5f62
-  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
   open_access: true
   license:
     content: CC-BY-4.0
