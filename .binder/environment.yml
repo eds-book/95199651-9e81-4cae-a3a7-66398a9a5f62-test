@@ -16,3 +16,4 @@ dependencies:
   - pip
   - pip:
       - deepforest==1.4.0
+      - albumentations==2.0.6
