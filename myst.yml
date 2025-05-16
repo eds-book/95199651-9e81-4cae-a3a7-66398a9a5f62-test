@@ -93,3 +93,6 @@ site:
   template: book-theme
   options:
     hide_toc: true
+    favicon: _static/favicon.ico
+    logo: _static/edsbook_logo-black.png
+    logo_dark: _static/edsbook_logo-white.png
